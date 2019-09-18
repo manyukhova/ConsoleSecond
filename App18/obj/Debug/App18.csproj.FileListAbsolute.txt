@@ -1,0 +1,7 @@
+C:\Users\opilane\Desktop\App18\App18\obj\Debug\App18.csprojResolveAssemblyReference.cache
+C:\Users\opilane\Desktop\App18\App18\obj\Debug\App18.csproj.CoreCompileInputs.cache
+C:\Users\opilane\Desktop\App18\App18\bin\Debug\App18.exe.config
+C:\Users\opilane\Desktop\App18\App18\bin\Debug\App18.exe
+C:\Users\opilane\Desktop\App18\App18\bin\Debug\App18.pdb
+C:\Users\opilane\Desktop\App18\App18\obj\Debug\App18.exe
+C:\Users\opilane\Desktop\App18\App18\obj\Debug\App18.pdb
